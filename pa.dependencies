@@ -1,0 +1,12 @@
+[
+ {
+   "repository":  "CyanogenMod/android_kernel_google_msm",
+   "revision":    "cm-12.1",
+   "target_path": "kernel/google/msm"
+ },
+ {
+   "repository":  "TheMuppets/proprietary_vendor_lge",
+   "revision":    "cm-12.1",
+   "target_path": "vendor/lge"
+ }
+]
